@@ -1,5 +1,6 @@
 # Learning With AI
-ASE 485 Capstone
+## Preston Jackson
+### ASE 485 Capstone
 
 ## Documentation of AI Learning
 - AI Usage
