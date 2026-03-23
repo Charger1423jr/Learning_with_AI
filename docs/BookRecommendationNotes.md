@@ -22,3 +22,8 @@
 - Will send the list (JSON) to the backend for sharing
 - JavaScript code will post the list on the HTML page, linking to that book's OpenLibrary Page and GoodRead's page.
   - Will Present 10 Books. Button to filter out book or hide it will be there, which will replace that book with another one.
+
+---
+
+## Potential End Goal
+- Develop far enough for AI system to run independently without personal interaction.
